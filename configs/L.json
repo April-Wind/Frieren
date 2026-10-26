@@ -1,0 +1,15 @@
+{
+  "dim": 64,
+  "hidden": 256,
+  "mask": 0.5,
+  "align": 0.1,
+  "tau": 0.2,
+  "batch": 256,
+  "negative": 128,
+  "lr": 0.001,
+  "reg": 0.0001,
+  "epochs": 200,
+  "patience": 20,
+  "seed": 999,
+  "behavior_only": false
+}

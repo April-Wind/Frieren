@@ -1,0 +1,14 @@
+{
+  "embedding_dim": 64,
+  "n_ui_layers": 2,
+  "n_item_layers": 1,
+  "dropout": 0.3,
+  "learning_rate": 0.001,
+  "epochs": 1000,
+  "patience": 40,
+  "batch_size": 2048,
+  "eval_batch_size": 512,
+  "topk": [10, 20],
+  "seed": 999,
+  "cpu_threads": 1
+}

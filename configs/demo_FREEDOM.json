@@ -1,0 +1,7 @@
+{
+  "embedding_dim": 8,
+  "epochs": 2,
+  "batch_size": 8,
+  "eval_batch_size": 8,
+  "seed": 999
+}

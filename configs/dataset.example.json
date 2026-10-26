@@ -1,0 +1,9 @@
+{
+  "schema": "frieren.dataset.v1",
+  "name": "books",
+  "interaction_file": "books.inter",
+  "item_mapping_file": "i_id_mapping.csv",
+  "image_features": "image_feat.npy",
+  "text_features": "text_feat.npy",
+  "knowledge_embeddings": "knowledge_item_aligned.npy"
+}

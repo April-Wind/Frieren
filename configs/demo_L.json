@@ -1,0 +1,9 @@
+{
+  "dim": 8,
+  "hidden": 16,
+  "batch": 8,
+  "negative": 8,
+  "epochs": 2,
+  "patience": 20,
+  "seed": 999
+}
